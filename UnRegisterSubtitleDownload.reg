@@ -1,0 +1,7 @@
+Windows Registry Editor Version 5.00
+
+[-HKEY_CLASSES_ROOT\*\shell\Download Subtitle]
+
+
+[-HKEY_CLASSES_ROOT\*\shell\Download Subtitle\command]
+@="D:\\PythonScripts\\Subtitle Download\\subtitleDownload.bat \"%1\""
